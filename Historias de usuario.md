@@ -10,7 +10,7 @@ git push -u origin feature-login
 #Historia de usuario 2: Agregar un archivo de configuracion#
 Creamos un archivo de configuración, como config.html el cual agregamos al repositorio local y hacemos un commit con un mensaje descriptivo.
 Comandos git hub:
-git add config.json
+git add config.html
 git commit -m "Agregar archivo de configuración"
 
 
